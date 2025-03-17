@@ -1,6 +1,6 @@
 # Depth-Estimation
 
-Comparision of a dl encoder-decoder model with various attention mechanisms in depth estimation tasks.
+Comparision of a deep learning encoder-decoder model with various attention mechanisms in depth estimation tasks.
 
 The attention mechanisms used are
 1) Channel Attention
