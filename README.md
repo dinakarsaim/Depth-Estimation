@@ -22,13 +22,13 @@ pooling and convolution.
 more comprehensive focus mechanism.
 
 The following configurations were implemented:
-ResNet-50 + CA / SA / CBAM (on DIODE)
-ResNet-101 + CA / SA / CBAM (on DIODE)
-DenseNet-121 + CA / SA / CBAM (on DIODE and NYU)
+1) ResNet-50 + CA / SA / CBAM (on DIODE)
+2) ResNet-101 + CA / SA / CBAM (on DIODE)
+3) DenseNet-121 + CA / SA / CBAM (on DIODE and NYU)
 
 Standard depth estimation metrics were used:
-Root Mean Square Error (RMSE)
-Mean Absolute Error (MAE)
-Relative Error (REL)
+1) Root Mean Square Error (RMSE)
+2) Mean Absolute Error (MAE)
+3) Relative Error (REL)
 
 All jupyter Notebooks and models trained are available above.
