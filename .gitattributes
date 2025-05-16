@@ -1,1 +1,2 @@
 channel-and-spatial-final.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
